@@ -171,3 +171,15 @@ a {
   border-radius: 25px;
   color: white;
 }
+
+.fifth-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1F2937;
+  padding: 2rem 10rem;
+}
+
+.footer {
+  color: white;
+}
